@@ -78,10 +78,22 @@ export default function Contact() {
                     <div className="glass rounded-2xl p-10 md:p-14 text-center">
                         <h2 className="text-3xl font-display font-bold text-white mb-6">Connect With Us</h2>
                         <div className="flex flex-col items-center space-y-4">
-                            <p className="text-text-secondary font-body text-lg">For any queries, reach out to us at:</p>
-                            <a href="tel:+918320506177" className="text-4xl md:text-5xl font-display font-bold text-accent-primary hover:text-accent-secondary transition-colors duration-300 tracking-tight">
-                                +91 8320506177
-                            </a>
+                            <p className="text-text-secondary font-body text-lg">For any queries, reach out to us:</p>
+                            <div className="space-y-6 w-full">
+                                <div>
+                                    <p className="text-xs font-body tracking-[0.2em] text-text-muted uppercase mb-2">Dhruva</p>
+                                    <a href="tel:+918320506177" className="text-3xl md:text-5xl font-display font-bold text-accent-primary hover:text-accent-secondary transition-colors duration-300 tracking-tight">
+                                        +91 8320506177
+                                    </a>
+                                </div>
+                                <div className="h-[1px] w-12 bg-white/10 mx-auto" />
+                                <div>
+                                    <p className="text-xs font-body tracking-[0.2em] text-text-muted uppercase mb-2">Aditi</p>
+                                    <a href="tel:+917874871975" className="text-3xl md:text-5xl font-display font-bold text-accent-primary hover:text-accent-secondary transition-colors duration-300 tracking-tight">
+                                        +91 7874871975
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
