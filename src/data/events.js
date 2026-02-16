@@ -99,17 +99,17 @@ export const events = [
         slug: "reel-deal",
         tagline: "Capture the Moment.",
         registrationLink: "https://forms.gle/1MyiHKNTXa8W8pNz6",
-        description: "A videography challenge to capture the essence of E-SUMMIT.",
+        description: "Reel Deal is a high-octane content creation challenge at the E-Summit, crafted to test your storytelling, marketing, and digital innovation skills. Teams go head-to-head to conceptualize, create, and pitch a powerful social media reel that markets a given product or event.",
         image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=2059&auto=format&fit=crop",
         rules: [
-            "Solo entry.",
-            "1080p resolution min.",
-            "Max duration 90s."
+            "10 teams, 5 members each.",
+            "Randomly select a mission card containing the assigned product or event.",
+            "Alloted time is 2.5 hours (restricted within campus)."
         ],
         rounds: [
-            { name: "Round 1: Shoot", desc: "Capture footage during day 1." },
-            { name: "Round 2: Edit", desc: "Post-production and submission." },
-            { name: "Round 3: Screening", desc: "Public screening and voting." }
+            { name: "Battle Timeline 1: Ideation and Strategy", desc: "Conceptualize the reel and plan the narrative." },
+            { name: "Battle Timeline 2: Creation and Execution", desc: "Shoot and edit the content within the allotted time." },
+            { name: "Battle Timeline 3: Presentation and Spotlight", desc: "Pitch the final reel to the judges." }
         ]
     }
 ]
