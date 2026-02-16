@@ -4,7 +4,7 @@ export const events = [
         title: "Crisis in Capital",
         slug: "crisis-in-capital",
         tagline: "Navigate the Financial Storm",
-        registrationLink: "https://forms.gle/3T5vLFbFeSq67yX18",
+        registrationLink: "https://forms.gle/XrvTF6YNtEfTzbMF6",
         description: "A high-stakes finance simulation where your strategic decisions determine if you sink or swim in a volatile market.",
         image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop",
         rules: [
@@ -23,7 +23,7 @@ export const events = [
         title: "Indian Paisa League",
         slug: "indian-paisa-league",
         tagline: "Trade Smart. Win Big.",
-        registrationLink: "https://forms.gle/HsMZkpJeHzJ9TspE7",
+        registrationLink: "https://forms.gle/TGoh9Wo81Zt84X3j9",
         description: "The ultimate trading competition where you build your dream team and compete for the highest valuation.",
         image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2070&auto=format&fit=crop",
         rules: [
@@ -42,7 +42,7 @@ export const events = [
         title: "Marketing Marathon",
         slug: "marketing-marathon",
         tagline: "Pitch Perfect. Sell Hard.",
-        registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSdq4qSvJmFJOWxMfaMReqSjlOEmqztWcYfNR-IkCq9l30bWVg/viewform?usp=publish-editor",
+        registrationLink: "https://forms.gle/YX3gfcjTLedZDVuK7",
         description: "Prove your marketing prowess by creating campaigns that captivate and convert.",
         image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
         rules: [
@@ -79,7 +79,7 @@ export const events = [
         title: "Bizz Attacks",
         slug: "bizz-attacks",
         tagline: "Strategy Meets Chaos.",
-        registrationLink: "https://forms.gle/riGsaM82Tu5X8h489",
+        registrationLink: "https://forms.gle/xE1MD4weaeTzsVDN7",
         description: "Solve complex business case studies under extreme pressure.",
         image: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=2070&auto=format&fit=crop",
         rules: [
@@ -98,7 +98,7 @@ export const events = [
         title: "Reel Deal",
         slug: "reel-deal",
         tagline: "Capture the Moment.",
-        registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLScew4pRx3dHoUeHDwFF5YYuBf6yVUnDc6UmBEL_FMBFW3ymcQ/viewform?usp=header",
+        registrationLink: "https://forms.gle/1MyiHKNTXa8W8pNz6",
         description: "A videography challenge to capture the essence of E-SUMMIT.",
         image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=2059&auto=format&fit=crop",
         rules: [
