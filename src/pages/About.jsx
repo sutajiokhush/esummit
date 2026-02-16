@@ -6,10 +6,8 @@ import { useGSAP } from '@gsap/react'
 gsap.registerPlugin(ScrollTrigger)
 
 const stats = [
-    { value: '500+', label: 'Participants' },
     { value: '6', label: 'Events' },
     { value: '3', label: 'Days' },
-    { value: '₹2L+', label: 'Prize Pool' },
 ]
 
 const team = [
@@ -122,9 +120,6 @@ export default function About() {
                                         {member.initials}
                                     </span>
                                 </div>
-                                <h3 className="text-lg font-display font-semibold text-white mb-1">
-                                    {member.name}
-                                </h3>
                                 <p className="text-xs font-body tracking-[0.12em] text-text-muted uppercase">
                                     {member.role}
                                 </p>
