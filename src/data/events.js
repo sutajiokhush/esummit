@@ -25,19 +25,23 @@ export const events = [
         id: 2,
         title: "Indian Paisa League",
         slug: "indian-paisa-league",
-        tagline: "Trade Smart. Win Big.",
+        tagline: "Bid Bold. Build Smart. Rule the League.",
         registrationLink: "https://forms.gle/TGoh9Wo81Zt84X3j9",
-        description: "The ultimate trading competition where you build your dream team and compete for the highest valuation.",
+        description: "Welcome to IPL — Indian Paisa League — a high-stakes auction simulation where strategy beats sentiment. With a fixed budget and a 90-player pool, you must build a 12-player squad through live bidding. Every decision has a cost. Overspend early, and you suffer later. Wait too long, and your match-winner is gone. Three twists raise the pressure — Legends League, Hidden Bid, and the unpredictable Googly Round. Because this isn’t just cricket. It’s valuation, negotiation, and calculated risk.",
         image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Solo or Team participation.",
-            "Virtual currency provided.",
-            "Live market simulation."
+            "Day 1: Quiz (20 teams → Top 10 qualify)",
+            "Day 2: Live auction",
+            "4–5 members per team",
+            "Fixed virtual budget",
+            "12-player squad mandatory",
+            "90-player auction pool",
+            "Special strategic rounds included"
         ],
         rounds: [
-            { name: "Round 1: Auction", desc: "Bid for the best players." },
-            { name: "Round 2: Trading Window", desc: "Swap and negotiate with other teams." },
-            { name: "Round 3: League Match", desc: "See how your team performs." }
+            { name: "Qualifier", desc: "Earn your auction seat through a high-stakes quiz." },
+            { name: "Live Auction", desc: "Build your franchise squad under extreme pressure." },
+            { name: "Twist Rounds", desc: "Adapt fast to Legends League, Hidden Bids, and the Googly Round." }
         ]
     },
     {
