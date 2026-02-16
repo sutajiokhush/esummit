@@ -60,18 +60,20 @@ export const events = [
         id: 4,
         title: "Talk Show",
         slug: "talk-show",
-        tagline: "Voices that Echo.",
+        tagline: "Raw Stories. Real Scars. Radical Success.",
         registrationLink: "https://forms.gle/1Xn1ZESWUiG3wTfx9",
-        description: "Engage in intellectual discourse on trending topics with industry leaders.",
+        description: "Forget the 'perfect' posts you see on LinkedIn, entrepreneurship looks easy on social media, but the truth is much more intense, and we’re peeling back the curtain to bring India’s boldest founders to the Nirma stage to talk about the 'Messy Middle' the parts of the journey that never make it to the news. There are no scripts, no boring speeches, and zero fluff here instead, we’re diving into the moments that almost ended it all, from the 3 AM stress calls and ideas that nearly failed to the pure grit required to turn a 'wild dream' into a market-shaking business. To ensure an authentic experience, this session follows a strict Zero-Filter Policy where speakers ditch corporate PR scripts for raw honesty.",
         image: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Open to all.",
-            "Respectful debate.",
-            "No interruptions."
+            "Join us on 6th March, 2:30 PM - 4:30 PM at NIM Auditorium.",
+            "Strict Zero-Filter Policy: No corporate PR scripts, just raw honesty.",
+            "Interactive session with un-googlable Q&A."
         ],
         rounds: [
-            { name: "Round 1: Panel Discussion", desc: "Group discussion on key topics." },
-            { name: "Round 2: Q&A", desc: "Audience questions." }
+            { name: "Opening Credits", desc: "High-octane introduction and speaker reveal." },
+            { name: "The Messy Middle", desc: "Deep-dive conversation into the real struggles of building a business." },
+            { name: "Open Mic", desc: "Radical Q&A session for un-googlable questions." },
+            { name: "Closing Huddle", desc: "Connect directly with the founders." }
         ]
     },
     {
