@@ -1,21 +1,24 @@
 export const events = [
     {
         id: 1,
-        title: "Crisis in Capital",
+        title: "Boardroom Crisis",
         slug: "crisis-in-capital",
-        tagline: "Navigate the Financial Storm",
+        tagline: "Build. Trade. Survive.",
         registrationLink: "https://forms.gle/XrvTF6YNtEfTzbMF6",
-        description: "A high-stakes finance simulation where your strategic decisions determine if you sink or swim in a volatile market.",
+        description: "You’re assigned an energy-sector company and dropped into a volatile market where resources are scarce, dependencies are complex, and every team’s gain could be your loss. With limited raw materials and a fixed objective, you must negotiate, barter, strategize, and adapt as sudden crises disrupt your plans. Every trade is a risk. Every decision shapes your outcome. And just when you think the numbers are under control, the battlefield shifts. The Finals transform into a high-pressure boardroom showdown — internal departments vs external stakeholders where strategies are questioned, ethics are challenged, and leadership is tested in real time.",
         image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Teams of 2-3 members.",
-            "Use of external financial tools is prohibited.",
-            "Decisions must be made within the time limit."
+            "Teams are assigned unique IDs and randomly allotted interdependent energy-sector companies.",
+            "Each team must declare one fixed objective that cannot be changed.",
+            "External procurement of raw materials is strictly prohibited.",
+            "All trades must be team-to-team and documented internally.",
+            "Failure to meet minimum production leads to penalties or disqualification.",
+            "Finals involve strict role-based simulation with structured questioning and evaluation criteria."
         ],
         rounds: [
-            { name: "Round 1: The Crash", desc: "Respond to a sudden market collapse." },
-            { name: "Round 2: Recovery Strategy", desc: "Build a portfolio to recover losses." },
-            { name: "Round 3: The Boardroom", desc: "Present your strategy to the judges." }
+            { name: "Market Mayhem", desc: "Supply Chain Simulation where you negotiate and trade resources." },
+            { name: "Boardroom Breakdown", desc: "Crisis Roleplay involving internal and external stakeholders." },
+            { name: "Power Shift", desc: "Role Reversal Showdown to test leadership and ethics." }
         ]
     },
     {
