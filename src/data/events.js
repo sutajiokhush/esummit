@@ -61,7 +61,7 @@ export const events = [
         title: "Talk Show",
         slug: "talk-show",
         tagline: "Voices that Echo.",
-        registrationLink: "#",
+        registrationLink: "https://forms.gle/1Xn1ZESWUiG3wTfx9",
         description: "Engage in intellectual discourse on trending topics with industry leaders.",
         image: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=2070&auto=format&fit=crop",
         rules: [
