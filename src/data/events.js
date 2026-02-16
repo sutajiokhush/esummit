@@ -83,19 +83,22 @@ export const events = [
         id: 5,
         title: "Bizz Attacks",
         slug: "bizz-attacks",
-        tagline: "Strategy Meets Chaos.",
+        tagline: "Bid Smart. Build Sharp. Survive the Crisis.",
         registrationLink: "https://forms.gle/xE1MD4weaeTzsVDN7",
-        description: "Solve complex business case studies under extreme pressure.",
+        description: "You aren’t just a manager; you are an architect of a corporate arsenal. In this high-pressure simulation, your survival doesn’t depend on luck; It depends on the Board you build and the money you’re willing to spill.\nThis is a world where strategy is your only shield. You will bid for power, deploy your assets against the chaos of the market, and make the ultimate sacrifice to stay in the game.\nBecause in the Boardroom, it’s not just about the cards you’re dealt... it’s about how many you’re willing to burn to win.",
         image: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Teams of 3.",
-            "Case release 24h prior.",
-            "5 min pitch time."
+            "Fixed virtual budget for all teams",
+            "Live auction to build your board",
+            "Real-world cases across various domains",
+            "Mandatory card elimination after every round",
+            "Cumulative scoring system",
+            "Top 15 teams only"
         ],
         rounds: [
-            { name: "Round 1: Case Analysis", desc: "Submit your solution deck." },
-            { name: "Round 2: Crisis Injection", desc: "Handle a sudden new constraint." },
-            { name: "Round 3: Final Defense", desc: "Defend your solution against judges." }
+            { name: "1) The Auction arena", desc: "The bidding starts now. Will you hunt the 'King of Finance' early or play the long game? Draft with precision—overspending now is a death sentence later." },
+            { name: "2) The Crucible", desc: "Deploy your lethal assets to counter real-world crises. But every victory demands a sacrifice: you must permanently burn one card after every case. Decide quickly—who stays, and who is cast aside?" },
+            { name: "3) The Last Hand", desc: "In this endgame, every card must have maximum impact." }
         ]
     },
     {
