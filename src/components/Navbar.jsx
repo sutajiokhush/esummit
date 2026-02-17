@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom'
 import { TransitionLink } from './PageTransition'
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
+import logo from '../assets/logo/logo-main.png'
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false)
@@ -84,10 +85,8 @@ export default function Navbar() {
                         border: `1px solid ${scrolled ? 'rgba(244, 162, 97, 0.15)' : 'rgba(255, 255, 255, 0.06)'}`,
                     }}
                 >
-                    <TransitionLink to="/" className="relative group">
-                        <span className="text-lg md:text-xl font-display font-bold tracking-[-0.02em] text-white group-hover:text-accent-primary transition-colors duration-300">
-                            E-SUMMIT
-                        </span>
+                    <TransitionLink to="/" className="relative group flex items-center gap-2">
+                        <img src={logo} alt="E-SUMMIT" className="h-8 w-auto object-contain" />
                     </TransitionLink>
 
                     <div className="hidden md:flex items-center gap-1">

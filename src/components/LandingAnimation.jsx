@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
-import logo from '../assets/logo_transparent.png'
+import logo from '../assets/logo/logo-main.png'
 import eCellLogo from '../assets/e-cell-logo.png'
 import nirmaLogo from '../assets/nirma-logo.png'
 import { useTransitionNavigate } from './PageTransition'
