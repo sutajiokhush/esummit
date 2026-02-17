@@ -55,7 +55,7 @@ export default function Home() {
         <div ref={containerRef} className="min-h-screen text-white overflow-hidden relative bg-mountain">
 
 
-            <div className="relative z-10 pt-32 pb-24 px-6 max-w-7xl mx-auto">
+            <div className="relative z-10 pt-40 pb-24 px-6 max-w-7xl mx-auto">
 
                 <div className="text-center mb-20 space-y-5">
                     <h1
