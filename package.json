@@ -1,9 +1,7 @@
 {
-  "name": "e-summit",
+  "name": "e-summit-2026",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "homepage": "https://Dhruvdesai793.github.io/e-summit",
+  "description": "Official website for E-Summit 2026",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
