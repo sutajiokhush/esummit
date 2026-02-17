@@ -10,6 +10,8 @@ const stats = [
     { value: '3', label: 'Days' },
 ]
 
+import teamPhoto from '../assets/team-photo.jpeg'
+
 export default function About() {
     const containerRef = useRef(null)
     const heroRef = useRef(null)
@@ -103,8 +105,8 @@ export default function About() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div className="team-anim group relative overflow-hidden rounded-2xl aspect-[4/3] glass">
                             <img
-                                src="https://images.unsplash.com/photo-1522071823991-b99c22302947?q=80&w=2070&auto=format&fit=crop"
-                                alt="E-Summit Team 1"
+                                src={teamPhoto}
+                                alt="E-Summit Organizing Team"
                                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-void/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
