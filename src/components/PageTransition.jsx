@@ -46,7 +46,7 @@ export function PageTransitionProvider({ children }) {
         const routeLabel =
             to === '/'
                 ? 'HOME'
-                : to.replace('/', '').replace(/-/g, ' ').toUpperCase()
+                : to.split('/').filter(Boolean).pop().replace(/-/g, ' ').toUpperCase()
 
         setLabel(routeLabel)
 
