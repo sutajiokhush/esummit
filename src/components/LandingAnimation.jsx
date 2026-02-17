@@ -115,7 +115,7 @@ export default function LandingAnimation() {
                     ref={titleRef}
                     src={logo}
                     alt="E-SUMMIT"
-                    className="w-auto h-[158px] md:h-[222px] lg:h-[254px] object-contain will-animate"
+                    className="w-auto h-[220px] md:h-[380px] lg:h-[480px] object-contain will-animate"
                     style={{ filter: 'drop-shadow(0 0 40px rgba(244, 162, 97, 0.2))' }}
                 />
 
