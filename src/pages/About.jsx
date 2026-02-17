@@ -15,6 +15,7 @@ export default function About() {
     const heroRef = useRef(null)
     const missionRef = useRef(null)
     const statsRef = useRef(null)
+    const teamRef = useRef(null)
 
     useGSAP(() => {
         window.scrollTo(0, 0)
@@ -42,6 +43,15 @@ export default function About() {
             stagger: 0.08,
             ease: 'power3.out',
             scrollTrigger: { trigger: statsRef.current, start: 'top 80%', toggleActions: 'play none none reverse' }
+        })
+
+        gsap.from(teamRef.current.querySelectorAll('.team-anim'), {
+            y: 50,
+            opacity: 0,
+            duration: 0.8,
+            stagger: 0.15,
+            ease: 'power3.out',
+            scrollTrigger: { trigger: teamRef.current, start: 'top 80%', toggleActions: 'play none none reverse' }
         })
     }, { scope: containerRef })
 
@@ -82,6 +92,31 @@ export default function About() {
                                 </div>
                             </div>
                         ))}
+                    </div>
+                </div>
+
+                <div ref={teamRef} className="mb-24">
+                    <h2 className="team-anim text-2xl md:text-3xl font-display font-bold text-white mb-10 flex items-center">
+                        <span className="w-10 h-[1px] bg-accent-primary mr-4" />
+                        Our Team
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div className="team-anim group relative overflow-hidden rounded-2xl aspect-[4/3] glass">
+                            <img
+                                src="https://images.unsplash.com/photo-1522071823991-b99c22302947?q=80&w=2070&auto=format&fit=crop"
+                                alt="E-Summit Team 1"
+                                className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out"
+                            />
+                            <div className="absolute inset-0 bg-gradient-to-t from-void/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                        </div>
+                        <div className="team-anim group relative overflow-hidden rounded-2xl aspect-[4/3] glass">
+                            <img
+                                src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2070&auto=format&fit=crop"
+                                alt="E-Summit Team 2"
+                                className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out"
+                            />
+                            <div className="absolute inset-0 bg-gradient-to-t from-void/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                        </div>
                     </div>
                 </div>
 
