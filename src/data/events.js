@@ -1,7 +1,7 @@
 export const events = [
     {
         id: 1,
-        title: "Boardroom Crisis",
+        title: "Crisis and Capital",
         slug: "crisis-in-capital",
         tagline: "Build. Trade. Survive.",
         registrationLink: "https://forms.gle/XrvTF6YNtEfTzbMF6",
