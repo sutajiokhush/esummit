@@ -48,19 +48,19 @@ export const events = [
         id: 3,
         title: "Marketing Marathon",
         slug: "marketing-marathon",
-        tagline: "Pitch Perfect. Sell Hard.",
+        tagline: "Dream the pitch, pitch the dream ",
         registrationLink: "https://forms.gle/YX3gfcjTLedZDVuK7",
-        description: "Prove your marketing prowess by creating campaigns that captivate and convert.",
+        description: "You will have to go through a long marathon to reach your final product. The campus will be your playground and you shall have to know it inside out. Clues will be waiting for you at every location, ready to take you to the next step. Every location awaits a new challenge, a new task and a new lesson! Marketing is all about the timing, the correct pain points and the right spots - you shall have to master exactly that! Your pace and your journey will bring you to your destination. The bulwark of the competition, the king of the market - the product. This round demands your unique point of view. A brand isn’t known by its usefulness, but rather by the brand feeling amongst customers and the perception created in our minds. You are expected to establish that feeling and sell it to the masses.",
         image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
         rules: [
-            "Teams of 2-4 members.",
-            "Original content only.",
-            "Adherence to brand guidelines."
+            "The team will consist of 4 people. Different teams will be given different starting clues at the same time.",
+            "Each team must find all clues and complete all tasks to reach the final round.",
+            "No person outside the team should be found helping.",
+            "The final product for the pitching round will be given on the day itself."
         ],
         rounds: [
-            { name: "Round 1: Brand Teaser", desc: "Create a 30s teaser video." },
-            { name: "Round 2: Campaign Strategy", desc: "Develop a full marketing plan." },
-            { name: "Round 3: The Pitch", desc: "Present to the CMO jury." }
+            { name: "1. Clue hunt", desc: "Gather all the clues and complete all the tasks to reach the concluding round." },
+            { name: "2. Pitch the itch", desc: "Creatively, strategically and smartly pitch the products assigned to you." }
         ]
     },
     {
