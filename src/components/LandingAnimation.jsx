@@ -123,7 +123,7 @@ export default function LandingAnimation() {
                     ref={taglineRef}
                     className="mt-5 text-accent-primary tracking-[0.35em] text-xs md:text-sm uppercase font-body font-medium will-animate"
                 >
-                    Where Vision Meets Victory
+                    Where Vision Meets Altitude
                 </p>
 
                 <div
