@@ -86,7 +86,7 @@ export default function Navbar() {
                     }}
                 >
                     <TransitionLink to="/" className="relative group flex items-center gap-2">
-                        <img src={logo} alt="E-SUMMIT" className="h-8 w-auto object-contain" />
+                        <img src={logo} alt="E-SUMMIT" className="h-12 w-auto object-contain" />
                     </TransitionLink>
 
                     <div className="hidden md:flex items-center gap-1">
