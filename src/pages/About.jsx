@@ -108,7 +108,7 @@ export default function About() {
                             <img
                                 src={teamPhoto}
                                 alt="E-Summit Organizing Team"
-                                className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out"
+                                className="w-full h-full object-cover group-hover:scale-105 transition-all duration-700 ease-out"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-void/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                         </div>
@@ -116,7 +116,7 @@ export default function About() {
                             <img
                                 src={teamPhoto2}
                                 alt="E-Summit Organizing Team 2"
-                                className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700 ease-out"
+                                className="w-full h-full object-cover group-hover:scale-105 transition-all duration-700 ease-out"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-void/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                         </div>
