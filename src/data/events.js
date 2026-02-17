@@ -2,7 +2,7 @@ export const events = [
     {
         id: 1,
         title: "Crisis and Capital",
-        slug: "crisis-in-capital",
+        slug: "crisis-and-capital",
         tagline: "Build. Trade. Survive.",
         registrationLink: "https://forms.gle/XrvTF6YNtEfTzbMF6",
         description: "You’re assigned an energy-sector company and dropped into a volatile market where resources are scarce, dependencies are complex, and every team’s gain could be your loss. With limited raw materials and a fixed objective, you must negotiate, barter, strategize, and adapt as sudden crises disrupt your plans. Every trade is a risk. Every decision shapes your outcome. And just when you think the numbers are under control, the battlefield shifts. The Finals transform into a high-pressure boardroom showdown — internal departments vs external stakeholders where strategies are questioned, ethics are challenged, and leadership is tested in real time.",
