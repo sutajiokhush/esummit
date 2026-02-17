@@ -74,11 +74,11 @@ export default function Navbar() {
             <nav
                 ref={navRef}
                 className="fixed top-0 left-0 w-full z-50 px-6 md:px-12 flex items-center justify-center will-animate"
-                style={{ height: '80px' }}
+                style={{ height: '100px' }}
             >
                 <div
                     ref={pillRef}
-                    className="flex items-center justify-between w-full max-w-5xl px-6 py-2 rounded-full transition-all duration-300"
+                    className="flex items-center justify-between w-full max-w-5xl px-6 py-2.5 rounded-full transition-all duration-300"
                     style={{
                         background: scrolled ? 'rgba(15, 23, 42, 0.85)' : 'rgba(255, 255, 255, 0.04)',
                         backdropFilter: scrolled ? 'blur(24px)' : 'blur(8px)',
@@ -86,7 +86,7 @@ export default function Navbar() {
                     }}
                 >
                     <TransitionLink to="/" className="relative group flex items-center gap-2">
-                        <img src={logo} alt="E-SUMMIT" className="h-14 w-auto object-contain" />
+                        <img src={logo} alt="E-SUMMIT" className="h-20 w-auto object-contain" />
                     </TransitionLink>
 
                     <div className="hidden md:flex items-center gap-1">

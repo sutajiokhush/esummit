@@ -81,7 +81,7 @@ export default function EventPage() {
         <div ref={containerRef} className="min-h-screen text-white relative overflow-hidden bg-mountain">
 
 
-            <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 relative z-10 flex flex-col lg:flex-row gap-16">
+            <div className="max-w-7xl mx-auto px-6 pt-40 pb-32 relative z-10 flex flex-col lg:flex-row gap-16">
 
                 <div className="hidden lg:block w-48 shrink-0 relative">
                     <div className="sticky top-32 space-y-8">

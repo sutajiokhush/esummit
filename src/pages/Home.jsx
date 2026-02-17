@@ -55,7 +55,7 @@ export default function Home() {
         <div ref={containerRef} className="min-h-screen text-white overflow-hidden relative bg-mountain">
 
 
-            <div className="max-w-7xl mx-auto px-6 pt-32 pb-32 relative z-10 flex flex-col lg:flex-row gap-16">
+            <div className="relative z-10 pt-40 pb-24 px-6 max-w-7xl mx-auto">
 
                 <div className="text-center mb-20 space-y-5">
                     <h1
