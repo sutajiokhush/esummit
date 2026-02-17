@@ -60,7 +60,7 @@ export default function Contact() {
         <div ref={containerRef} className="min-h-screen text-white relative overflow-hidden bg-mountain">
 
 
-            <div className="relative z-10 max-w-5xl mx-auto px-6 pt-40 pb-24">
+            <div className="relative z-10 max-w-5xl mx-auto px-6 pt-32 pb-24">
 
                 <div ref={heroRef} className="mb-20">
                     <div className="contact-hero-anim inline-block px-4 py-1.5 rounded-full border border-accent-primary/20 bg-accent-primary/5 text-accent-primary font-body text-xs tracking-[0.2em] uppercase mb-8">
