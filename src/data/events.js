@@ -53,7 +53,7 @@ export const events = [
         title: "Marketing Marathon",
         slug: "marketing-marathon",
         tagline: "Dream the pitch, pitch the dream ",
-        venue: "TBA",
+        venue: "Campus Wide",
         time: "TBA",
         registrationLink: "https://forms.gle/YX3gfcjTLedZDVuK7",
         description: "You will have to go through a long marathon to reach your final product. The campus will be your playground and you shall have to know it inside out. Clues will be waiting for you at every location, ready to take you to the next step. Every location awaits a new challenge, a new task and a new lesson! Marketing is all about the timing, the correct pain points and the right spots - you shall have to master exactly that! Your pace and your journey will bring you to your destination. The bulwark of the competition, the king of the market - the product. This round demands your unique point of view. A brand isn’t known by its usefulness, but rather by the brand feeling amongst customers and the perception created in our minds. You are expected to establish that feeling and sell it to the masses.",
