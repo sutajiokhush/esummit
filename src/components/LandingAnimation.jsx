@@ -130,7 +130,7 @@ export default function LandingAnimation() {
                     ref={infoRef}
                     className="mt-6 flex items-center gap-4 text-text-muted font-body text-xs md:text-sm tracking-[0.15em] uppercase will-animate"
                 >
-                    <span className="text-text-secondary">March 2026</span>
+                    <span className="text-text-secondary">6-8 March, 2026</span>
                     <span className="text-accent-primary/40">|</span>
                     <span className="text-text-secondary">Nirma University</span>
                     <span className="text-accent-primary/40">|</span>
