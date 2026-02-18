@@ -123,6 +123,17 @@ export default function EventPage() {
                         <p className="hero-anim text-xl md:text-2xl text-text-secondary font-body">
                             {event.tagline}
                         </p>
+
+                        <div className="hero-anim mt-8 flex flex-wrap items-center justify-center lg:justify-start gap-x-8 gap-y-4 text-sm font-body tracking-[0.1em] uppercase">
+                            <div className="flex items-center gap-3 glass px-5 py-2.5 rounded-xl border-accent-primary/10">
+                                <span className="text-accent-primary opacity-60">Venue</span>
+                                <span className="text-white font-medium">{event.venue}</span>
+                            </div>
+                            <div className="flex items-center gap-3 glass px-5 py-2.5 rounded-xl border-accent-primary/10">
+                                <span className="text-accent-primary opacity-60">Time</span>
+                                <span className="text-white font-medium">{event.time}</span>
+                            </div>
+                        </div>
                     </div>
 
                     <div id="about" ref={aboutRef}>
