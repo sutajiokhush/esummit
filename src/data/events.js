@@ -29,7 +29,7 @@ export const events = [
         slug: "indian-paisa-league",
         tagline: "Bid Bold. Build Smart. Rule the League.",
         venue: "C Auditorium",
-        time: "7th March, 9:00 AM - 1:00 PM",
+        time: "8th March, 9:00 AM - 1:00 PM",
         registrationLink: "https://forms.gle/TGoh9Wo81Zt84X3j9",
         description: "Welcome to IPL — Indian Paisa League — a high-stakes auction simulation where strategy beats sentiment. With a fixed budget and a 90-player pool, you must build a 12-player squad through live bidding. Every decision has a cost. Overspend early, and you suffer later. Wait too long, and your match-winner is gone. Three twists raise the pressure — Legends League, Hidden Bid, and the unpredictable Googly Round. Because this isn’t just cricket. It’s valuation, negotiation, and calculated risk.",
         image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2070&auto=format&fit=crop",
