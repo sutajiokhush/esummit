@@ -70,7 +70,7 @@ export default function Contact() {
                         Let's<br />Connect
                     </h1>
                     <p className="contact-hero-anim text-lg md:text-xl text-text-secondary font-body leading-relaxed max-w-2xl">
-                        Have questions? Want to sponsor? Or just want to say hello? We'd love to hear from you.
+                        Have questions? Or just want to say hello? We'd love to hear from you.
                     </p>
                 </div>
 
