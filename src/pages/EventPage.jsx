@@ -133,6 +133,12 @@ export default function EventPage() {
                                 <span className="text-accent-primary opacity-60">Time</span>
                                 <span className="text-white font-medium">{event.time}</span>
                             </div>
+                            {event.prizePool && (
+                                <div className="flex items-center gap-3 glass px-5 py-2.5 rounded-xl border-accent-primary/10">
+                                    <span className="text-accent-primary opacity-60">Prize Pool</span>
+                                    <span className="text-white font-medium">{event.prizePool}</span>
+                                </div>
+                            )}
                         </div>
                     </div>
 
