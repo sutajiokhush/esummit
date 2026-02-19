@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger)
 const faqs = [
     { q: 'Who can participate in E-Summit?', a: 'E-Summit is open to all college students across India. Some events have specific team size requirements—check individual event pages for details.' },
     { q: 'Is there a registration fee?', a: 'Yes there is a nominal fee for each event, as mentioned in the form for each one.' },
-    { q: 'What do I need to bring?', a: 'Just your ID, creativity, and competitive spirit. Laptops may be required for certain events. All materials and refreshments are provided.' },
+    { q: 'What do I need to bring?', a: 'Just your ID, creativity, and competitive spirit. Laptops may be required for certain events. Other necessary materials are provided.' },
     { q: 'Where is E-Summit held?', a: 'E-Summit 2026 will be held at the main campus auditorium and adjacent seminar halls. Detailed venue maps will be shared before the event.' },
 ]
 
