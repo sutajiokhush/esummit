@@ -55,7 +55,7 @@ export const events = [
         title: "Marketing Marathon",
         slug: "marketing-marathon",
         tagline: "Dream the pitch, pitch the dream ",
-        venue: "Incubation",
+        venue: "INCUBATION/CAMPUS WIDE",
         time: "8th March, 9:00 AM - 1:00 PM",
         prizePool: "₹5,000",
         registrationLink: "https://forms.gle/YX3gfcjTLedZDVuK7",
