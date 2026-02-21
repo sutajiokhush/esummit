@@ -8,7 +8,7 @@ export const events = [
         time: "Round 1: 7th March, 9:00 AM - 1:00 PM | Round 2: 8th March, 9:00 AM - 1:00 PM",
         prizePool: "₹10,000",
         registrationLink: "https://forms.gle/XrvTF6YNtEfTzbMF6",
-        description: "You’re assigned an energy-sector company and dropped into a volatile market where resources are scarce, dependencies are complex, and every team’s gain could be your loss. With limited raw materials and a fixed objective, you must negotiate, barter, strategize, and adapt as sudden crises disrupt your plans. Every trade is a risk. Every decision shapes your outcome. And just when you think the numbers are under control, the battlefield shifts. The Finals transform into a high-pressure boardroom showdown — internal departments vs external stakeholders where strategies are questioned, ethics are challenged, and leadership is tested in real time.",
+        description: "You're assigned an energy-sector company and dropped into a volatile market where resources are scarce, dependencies are complex, and every team's gain could be your loss. With limited raw materials and a fixed objective, you must negotiate, barter, strategize, and adapt as sudden crises disrupt your plans. Every trade is a risk. Every decision shapes your outcome. And just when you think the numbers are under control, the battlefield shifts. The Finals transform into a high-pressure boardroom showdown — internal departments vs external stakeholders where strategies are questioned, ethics are challenged, and leadership is tested in real time.",
         image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop",
         rules: [
             "Teams are assigned unique IDs and randomly allotted interdependent energy-sector companies.",
@@ -33,7 +33,7 @@ export const events = [
         time: "8th March, 9:00 AM - 1:00 PM",
         prizePool: "₹5,000",
         registrationLink: "https://forms.gle/TGoh9Wo81Zt84X3j9",
-        description: "Welcome to IPL — Indian Paisa League — a high-stakes auction simulation where strategy beats sentiment. With a fixed budget and a 90-player pool, you must build a 12-player squad through live bidding. Every decision has a cost. Overspend early, and you suffer later. Wait too long, and your match-winner is gone. Three twists raise the pressure — Legends League, Hidden Bid, and the unpredictable Googly Round. Because this isn’t just cricket. It’s valuation, negotiation, and calculated risk.",
+        description: "Welcome to IPL — Indian Paisa League — a high-stakes auction simulation where strategy beats sentiment. With a fixed budget and a 90-player pool, you must build a 12-player squad through live bidding. Every decision has a cost. Overspend early, and you suffer later. Wait too long, and your match-winner is gone. Three twists raise the pressure — Legends League, Hidden Bid, and the unpredictable Googly Round. Because this isn't just cricket. It's valuation, negotiation, and calculated risk.",
         image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2070&auto=format&fit=crop",
         rules: [
             "Day 1: Quiz (20 teams → Top 10 qualify)",
@@ -59,7 +59,7 @@ export const events = [
         time: "7th March, 9:00 AM - 1:00 PM",
         prizePool: "₹5,000",
         registrationLink: "https://forms.gle/YX3gfcjTLedZDVuK7",
-        description: "You will have to go through a long marathon to reach your final product. The campus will be your playground and you shall have to know it inside out. Clues will be waiting for you at every location, ready to take you to the next step. Every location awaits a new challenge, a new task and a new lesson! Marketing is all about the timing, the correct pain points and the right spots - you shall have to master exactly that! Your pace and your journey will bring you to your destination. The bulwark of the competition, the king of the market - the product. This round demands your unique point of view. A brand isn’t known by its usefulness, but rather by the brand feeling amongst customers and the perception created in our minds. You are expected to establish that feeling and sell it to the masses.",
+        description: "You will have to go through a long marathon to reach your final product. The campus will be your playground and you shall have to know it inside out. Clues will be waiting for you at every location, ready to take you to the next step. Every location awaits a new challenge, a new task and a new lesson! Marketing is all about the timing, the correct pain points and the right spots - you shall have to master exactly that! Your pace and your journey will bring you to your destination. The bulwark of the competition, the king of the market - the product. This round demands your unique point of view. A brand isn't known by its usefulness, but rather by the brand feeling amongst customers and the perception created in our minds. You are expected to establish that feeling and sell it to the masses.",
         image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
         rules: [
             "The team will consist of 4 people. Different teams will be given different starting clues at the same time.",
@@ -80,7 +80,7 @@ export const events = [
         venue: "NIM Auditorium",
         time: "6th March, 3:00 PM - 6:00 PM | 8th March, 2:00 PM - 4:00 PM",
         registrationLink: "https://forms.gle/1Xn1ZESWUiG3wTfx9",
-        description: "Forget the 'perfect' posts you see on LinkedIn, entrepreneurship looks easy on social media, but the truth is much more intense, and we’re peeling back the curtain to bring India’s boldest founders to the Nirma stage to talk about the 'Messy Middle' the parts of the journey that never make it to the news. There are no scripts, no boring speeches, and zero fluff here instead, we’re diving into the moments that almost ended it all, from the 3 AM stress calls and ideas that nearly failed to the pure grit required to turn a 'wild dream' into a market-shaking business. To ensure an authentic experience, this session follows a strict Zero-Filter Policy where speakers ditch corporate PR scripts for raw honesty.",
+        description: "Forget the 'perfect' posts you see on LinkedIn, entrepreneurship looks easy on social media, but the truth is much more intense, and we're peeling back the curtain to bring India's boldest founders to the Nirma stage to talk about the 'Messy Middle' the parts of the journey that never make it to the news. There are no scripts, no boring speeches, and zero fluff here instead, we're diving into the moments that almost ended it all, from the 3 AM stress calls and ideas that nearly failed to the pure grit required to turn a 'wild dream' into a market-shaking business. To ensure an authentic experience, this session follows a strict Zero-Filter Policy where speakers ditch corporate PR scripts for raw honesty.",
         image: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=2070&auto=format&fit=crop",
         rules: [
             "Join us on 6th March, 2:30 PM - 4:30 PM at NIM Auditorium.",
@@ -98,12 +98,12 @@ export const events = [
         id: 5,
         title: "Bizz Attacks",
         slug: "bizz-attacks",
-        tagline: "Bid Smart. Build Sharp. Survive the Crisis.",
+        tagline: "Where Business Titans Become Your Team.",
         venue: "C Auditorium",
         time: "7th March, 2:00 PM - 6:00 PM",
         prizePool: "₹5,000",
         registrationLink: "https://forms.gle/xE1MD4weaeTzsVDN7",
-        description: "You aren’t just a manager; you are an architect of a corporate arsenal. In this high-pressure simulation, your survival doesn’t depend on luck; It depends on the Board you build and the money you’re willing to spill.\nThis is a world where strategy is your only shield. You will bid for power, deploy your assets against the chaos of the market, and make the ultimate sacrifice to stay in the game.\nBecause in the Boardroom, it’s not just about the cards you’re dealt... it’s about how many you’re willing to burn to win.",
+        description: "Forget the stadium; the real war is in the Boardroom. In The Bizz Attacks, you aren't drafting a squad....you're building a corporate arsenal.\nYou are the architect of a global empire. Your task is to recruit an unbeatable board from a pool of elite business icons. Will you bank on the AI-fueled vision of Jensen Huang, the ruthless market dominance of Jeff Bezos, or the sharp, homegrown instincts of Aman Gupta?\nIn this high-pressure simulation, every tycoon is a card, and every card is a weapon. Deploy your icons to crush real-world market crises, but remember: Power comes at a price. To survive the next wave, you must make the ultimate sacrifice and burn your assets.\nBecause in this game, it's not about the runs you score... it's about the empires you build and the titans you command.",
         image: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=2070&auto=format&fit=crop",
         rules: [
             "Fixed virtual budget for all teams",
