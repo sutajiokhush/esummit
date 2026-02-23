@@ -128,7 +128,7 @@ export const events = [
         time: "7th March, 2:00 PM - 6:00 PM",
         prizePool: "₹5,000",
         registrationLink: "https://forms.gle/1MyiHKNTXa8W8pNz6",
-        description: "Reel Deal is a high-octane content creation challenge at the E-Summit, crafted to test your storytelling, marketing, and digital innovation skills. Teams go head-to-head to conceptualize, create, and pitch a powerful social media reel that markets a given product or event.",
+        description: "Reel Deal is a high-octane content creation challenge at the E-Summit, crafted to test your storytelling, marketing, and digital innovation skills. Teams go head-to-head to conceptualize, create, and pitch a powerful social media reel that markets a given product. And yes, there's zero registration fees.",
         image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=2059&auto=format&fit=crop",
         rules: [
             "10 teams, 5 members each.",
