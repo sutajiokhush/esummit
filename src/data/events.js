@@ -83,7 +83,7 @@ export const events = [
         description: "Forget the 'perfect' posts you see on LinkedIn, entrepreneurship looks easy on social media, but the truth is much more intense, and we're peeling back the curtain to bring India's boldest founders to the Nirma stage to talk about the 'Messy Middle' the parts of the journey that never make it to the news. There are no scripts, no boring speeches, and zero fluff here instead, we're diving into the moments that almost ended it all, from the 3 AM stress calls and ideas that nearly failed to the pure grit required to turn a 'wild dream' into a market-shaking business. To ensure an authentic experience, this session follows a strict Zero-Filter Policy where speakers ditch corporate PR scripts for raw honesty.",
         image: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Join us on 6th March, 2:30 PM - 4:30 PM at NIM Auditorium.",
+            "Join us on 6th March, 3PM to 6PM and 8th March, 2PM to 4PM at NIM Auditorium.",
             "Strict Zero-Filter Policy: No corporate PR scripts, just raw honesty.",
             "Interactive session with un-googlable Q&A."
         ],
