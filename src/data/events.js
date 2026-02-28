@@ -106,7 +106,7 @@ export const events = [
         description: "Forget the stadium; the real war is in the Boardroom. In The Bizz Attacks, you aren't drafting a squad....you're building a corporate arsenal.\nYou are the architect of a global empire. Your task is to recruit an unbeatable board from a pool of elite business icons. Will you bank on the AI-fueled vision of Jensen Huang, the ruthless market dominance of Jeff Bezos, or the sharp, homegrown instincts of Aman Gupta?\nIn this high-pressure simulation, every tycoon is a card, and every card is a weapon. Deploy your icons to crush real-world market crises, but remember: Power comes at a price. To survive the next wave, you must make the ultimate sacrifice and burn your assets.\nBecause in this game, it's not about the runs you score... it's about the empires you build and the titans you command.",
         image: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=2070&auto=format&fit=crop",
         rules: [
-            "Fixed virtual budget for all teams",
+            "Fixed virtual budget for all teams (3-5 members each)",
             "Live auction to build your board",
             "Real-world cases across various domains",
             "Mandatory card elimination after every round",
