@@ -131,7 +131,7 @@ export const events = [
         description: "Reel Deal is a high-octane content creation challenge at the E-Summit, crafted to test your storytelling, marketing, and digital innovation skills. Teams go head-to-head to conceptualize, create, and pitch a powerful social media reel that markets a given product. And yes, there's zero registration fees.",
         image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=2059&auto=format&fit=crop",
         rules: [
-            "10 teams, 5 members each.",
+            "10 teams, 2-5 members each.",
             "Randomly select a mission card containing the assigned product or event.",
             "Alloted time is 2.5 hours (restricted within campus)."
         ],
